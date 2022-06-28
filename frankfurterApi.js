@@ -399,7 +399,7 @@ function diffPercentage (compare, base) {
 
 async function getTodayGold() {
     // GOLD value in PLN
-    await fetch("http://api.nbp.pl/api/cenyzlota/")
+    await fetch("https://api.nbp.pl/api/cenyzlota/")
     .then(response => response.json())
     .then(data => {
         currencies[31].todayRate = data[0].cena;
@@ -408,7 +408,7 @@ async function getTodayGold() {
 
 async function getYesterdayGold() {
     //GOLD value in PLN
-    await fetch("http://api.nbp.pl/api/cenyzlota/2022-06-21")
+    await fetch("https://api.nbp.pl/api/cenyzlota/2022-06-21")
     .then(response => response.json())
     .then(data => {
         currencies[31].yesterdayRate = data[0].cena;
