@@ -19,7 +19,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "BGN",
@@ -28,7 +28,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "BRL",
@@ -37,7 +37,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "CAD",
@@ -46,7 +46,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "CHF",
@@ -61,7 +61,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "CNY",
@@ -70,7 +70,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "CZK",
@@ -79,7 +79,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "DKK",
@@ -88,7 +88,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "EUR",
@@ -150,7 +150,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "GBP",
@@ -159,7 +159,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "HKD",
@@ -168,7 +168,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "HRK",
@@ -177,7 +177,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "HUF",
@@ -186,7 +186,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "IDR",
@@ -195,7 +195,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "ILS",
@@ -210,7 +210,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "INR",
@@ -219,7 +219,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "ISK",
@@ -228,7 +228,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "JPY",
@@ -237,7 +237,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "KRW",
@@ -246,7 +246,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "MXN",
@@ -255,7 +255,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "MYR",
@@ -264,7 +264,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "NOK",
@@ -273,7 +273,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "NZD",
@@ -282,7 +282,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "PHP",
@@ -291,7 +291,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "RON",
@@ -300,7 +300,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "SEK",
@@ -309,7 +309,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "SGD",
@@ -318,7 +318,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "THB",
@@ -327,7 +327,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "TRY",
@@ -336,7 +336,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "USD",
@@ -364,7 +364,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "ZAR",
@@ -373,7 +373,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
     {
         name: "PLN",
@@ -382,7 +382,7 @@ var currencies = [
         todayRate: 0,
         yesterdayRate: 0,
         changePercentage: 0,
-        color: "grey"
+        color: "blue"
     },
 ]
 
@@ -433,9 +433,6 @@ async function getTodayData () {
                 i--;
             } else {
                 currencies[i].todayRate = data.rates[currency];
-
-                console.log("Currency for");
-                console.log(currency);
             }
 
             i++;
@@ -467,9 +464,8 @@ async function getYesterdayData () {
                 else if (currencies[i].changePercentage < 0)
                     currencies[i].color = "red";
                 else
-                    currencies[i].color = "grey";
+                    currencies[i].color = "blue";
             }
-
             i++;
         }
     })
@@ -485,14 +481,6 @@ async function limitRate () {
 
     // currencies[31].changePercentage = diffPercentage(currencies[31].todayRate, currencies[31].yesterdayRate);
 
-
-
-    // Convert PLD to USD or viceversa
-    // Into GOLD to USD or viceversa
-    console.log(currencies[31].todayRate);
-    console.log(currencies[29].todayRate);
-    console.log(g2oz);
-
     // currencies[31].todayRate = currencies[31].todayRate * currencies[29].todayRate * g2oz;
     // currencies[31].yesterdayRate = currencies[31].todayRate * currencies[29].yesterdayRate * g2oz;
 
@@ -503,13 +491,7 @@ async function limitRate () {
         currencies[i].todayRate = currencies[31].todayRate * currencies[i].todayRate * g2oz;
         currencies[i].yesterdayRate = currencies[31].yesterdayRate * currencies[i].yesterdayRate * g2oz;
 
-        console.log("Before ID");
-        console.log(currencies[i].countriesID);
-
         for(var j = 0; j < currencies[i].countriesID.length; j++ ) {
-            console.log("Country Object thiungy?");
-            console.log(currencies[i].countriesID[j]);
-
             areasWithSettings.push({
                 id: currencies[i].countriesID[j],
                 color: currencies[i].color,
@@ -520,9 +502,8 @@ async function limitRate () {
 
     console.log(areasWithSettings);
     console.log(currencies);
-    console.log("Currently displaying (in PLN) USD's todayRate and yesterdayRate of gold's price in USD with the differentPercentage in gold difference percentage in decimal");
-    console.log("In USD there is the rate from PLD exchange rate and its corrispective differentPercentage");
 
+    // Map API
     var map = AmCharts.makeChart("mapdiv",{
         type: "map",
         theme: "dark",
